@@ -46,8 +46,6 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\BulletBehaviour.cs" />
-     <Compile Include="Assets\Scripts\BoxController.cs" />
      <Compile Include="Assets\Scripts\MainController.cs" />
      <Compile Include="Assets\Scripts\StartGameButton.cs" />
  <Reference Include="UnityEngine.UI">
